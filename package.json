@@ -1,0 +1,16 @@
+{
+  "name": "weather-website-using-express",
+  "version": "1.0.0",
+  "description": "This is Weather App made as a practce project for expressjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ASADULHAQ",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "hbs": "^4.2.0",
+    "nodemon": "^2.0.20"
+  }
+}
